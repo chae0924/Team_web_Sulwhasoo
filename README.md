@@ -1,3 +1,5 @@
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyMjExMDJfNjYg/MDAxNjY3MzYyOTA4NDAz.j0RRMgQSKgWi5gnks2YE2SVzhAG6KTwUy-t8KIWqHnIg.nNdwF99MjBudkRcpBS4p5lpTMnwT9MrQkkBjspU7ShIg.PNG.jinusco/%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98%EC%9C%A4%EC%8A%AC3.png?type=w800" />
+
 # 팀이름 
 CodingRush
 
@@ -10,6 +12,5 @@ bootstrap5 그리드시스템으로 빠른 반응형 제작 구현
 <li>디자이너: 권채령, 최윤서</li>
 <li>기획자: 노동민</li>
 
-
 # UI
-  피그마주소: https://www.figma.com/design/MywfdxJutWnpRNa0EaUhrp/%EC%BD%94%EB%94%A9%EB%9F%AC%EC%89%AC_%EB%B8%8C%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80?node-id=0-1
+  피그마주소: 
