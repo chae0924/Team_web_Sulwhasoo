@@ -3,7 +3,7 @@
     bootstrap 5 그리드시스템으로 빠른 반응형 제작 구현
 
 # 팀원 소개
-   최윤서 : ws0924@gmail.com
+   <li>최윤서 : ws0924@gmail.com</li>
 
 # UI
    피그마주소 : 
